@@ -6,7 +6,9 @@ Features
 Candy Types: Five different types of candies are represented by the characters 'A', 'B', 'C', 'D', 'E'.
 Scoring System: Players earn points for each set of candies matched. The score increases based on the number of candies matched.
 Adjacent Swap: Players can swap two adjacent candies to create a match of three or more similar candies.
-How to Play
+
+How to Play:
+
 The game grid will display upon starting the game.
 You will be prompted to enter the row and column of the first candy you wish to swap.
 Next, you will enter the row and column of the second adjacent candy you want to swap.
